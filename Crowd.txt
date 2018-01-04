@@ -1,0 +1,7 @@
+To make this crowd animate, follow the steps: -
+Step 1. : Drag and drop the entire folder of PNGs in Unity
+Step 2. : Select all the mages in Unity and then go to inspector 
+Step 3. : Select texture type as sprite 2D
+Step 4. : Now click apply and then drag and drop this sprite2D in your game scene
+Step 5. : Give your animation file a name and save it
+
